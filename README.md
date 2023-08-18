@@ -3,12 +3,13 @@
 
 ## Tecnologías utilizadas
 
-<img src="https://img.shields.io/badge/%20%20WordPress-%2321759B?style=for-the-badge&logo=WordPress&logoColor=white
-" style="max-width: 100%;"> <img src="https://img.shields.io/badge/%20%20PHP%20%20-%23777BB4?style=for-the-badge&logo=PHP&logoColor=white
-" alt="PHP" style="max-width: 100%;"> <img src="https://img.shields.io/badge/XAMPP-%23FB7A24?style=for-the-badge&logo=xampp&logoColor=white">
-<img> <img src="https://img.shields.io/badge/ELEMENTOR-%2392003B?style=for-the-badge&logo=elementor&logoColor=WHITE
-">
-<img>
+<img src="https://img.shields.io/badge/%20%20WordPress-%2321759B?style=for-the-badge&logo=WordPress&logoColor=white" alt="WordPress" style=""> 
+
+<img src="https://img.shields.io/badge/%20%20PHP%20%20-%23777BB4?style=for-the-badge&logo=PHP&logoColor=white" alt="PHP" style=""> 
+
+<img src="https://img.shields.io/badge/XAMPP-%23FB7A24?style=for-the-badge&logo=xampp&logoColor=white" alt="XAMPP">
+
+<img src="https://img.shields.io/badge/ELEMENTOR-%2392003B?style=for-the-badge&logo=elementor&logoColor=WHITE" alt= "Elementor">
 
 
 ## Tabla de contenidos
